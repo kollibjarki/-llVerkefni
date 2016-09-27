@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-WriteToFile\H03D04V01-WriteToFile\bin\Debug\H03D04V01-WriteToFile.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-WriteToFile\H03D04V01-WriteToFile\obj\Debug\H03D04V01-WriteToFile.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-WriteToFile\H03D04V01-WriteToFile\bin\Debug\H03D04V01-WriteToFile.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-WriteToFile\H03D04V01-WriteToFile\bin\Debug\H03D04V01-WriteToFile.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-WriteToFile\H03D04V01-WriteToFile\obj\Debug\H03D04V01-WriteToFile.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-WriteToFile\H03D04V01-WriteToFile\obj\Debug\H03D04V01-WriteToFile.pdb

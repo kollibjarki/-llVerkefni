@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V02-SeralizeClass\H03D06V02-SeralizeClass\bin\Debug\H03D06V02-SeralizeClass.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V02-SeralizeClass\H03D06V02-SeralizeClass\bin\Debug\H03D06V02-SeralizeClass.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V02-SeralizeClass\H03D06V02-SeralizeClass\bin\Debug\H03D06V02-SeralizeClass.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V02-SeralizeClass\H03D06V02-SeralizeClass\obj\Debug\H03D06V02-SeralizeClass.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V02-SeralizeClass\H03D06V02-SeralizeClass\obj\Debug\H03D06V02-SeralizeClass.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V02-SeralizeClass\H03D06V02-SeralizeClass\obj\Debug\H03D06V02-SeralizeClass.pdb

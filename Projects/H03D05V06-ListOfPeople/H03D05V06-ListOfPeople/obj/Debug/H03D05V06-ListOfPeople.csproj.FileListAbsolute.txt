@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V06-ListOfPeople\H03D05V06-ListOfPeople\bin\Debug\H03D05V06-ListOfPeople.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V06-ListOfPeople\H03D05V06-ListOfPeople\bin\Debug\H03D05V06-ListOfPeople.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V06-ListOfPeople\H03D05V06-ListOfPeople\bin\Debug\H03D05V06-ListOfPeople.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V06-ListOfPeople\H03D05V06-ListOfPeople\obj\Debug\H03D05V06-ListOfPeople.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V06-ListOfPeople\H03D05V06-ListOfPeople\obj\Debug\H03D05V06-ListOfPeople.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V06-ListOfPeople\H03D05V06-ListOfPeople\obj\Debug\H03D05V06-ListOfPeople.pdb

@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V01- System.IO\H03D03V01- System.IO\bin\Debug\H03D03V01- System.IO.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V01- System.IO\H03D03V01- System.IO\bin\Debug\H03D03V01- System.IO.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V01- System.IO\H03D03V01- System.IO\bin\Debug\H03D03V01- System.IO.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V01- System.IO\H03D03V01- System.IO\obj\Debug\H03D03V01- System.IO.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V01- System.IO\H03D03V01- System.IO\obj\Debug\H03D03V01- System.IO.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V01- System.IO\H03D03V01- System.IO\obj\Debug\H03D03V01- System.IO.pdb

@@ -1,0 +1,14 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\bin\Debug\GagnaGrunurFyirLokaVerkefnið.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\bin\Debug\GagnaGrunurFyirLokaVerkefnið.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\bin\Debug\GagnaGrunurFyirLokaVerkefnið.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\MainWindow.g.cs
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\App.g.cs
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið_MarkupCompile.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið_MarkupCompile.lref
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\MainWindow.baml
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið.g.resources
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið.Properties.Resources.resources
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið.csproj.GenerateResource.Cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\GagnaGrunurFyirLokaVerkefnið\GagnaGrunurFyirLokaVerkefnið\obj\Debug\GagnaGrunurFyirLokaVerkefnið.pdb

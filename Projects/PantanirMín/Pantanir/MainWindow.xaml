@@ -1,0 +1,70 @@
+﻿<Window x:Class="Pantanir.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pantanir"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="428.904" Width="696.432">
+    <Grid RenderTransformOrigin="0.28,0.602">
+        <Grid.Resources>
+            <DataTemplate x:Key="PantanirTemplate">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="160" />
+                        <ColumnDefinition Width="75" />
+                        <ColumnDefinition Width="100" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="{Binding Path=VvNafn}" />
+                    <TextBlock Grid.Column="1" Text="{Binding Path=VvKT}" />
+                    <TextBlock Grid.Column="2" Text="{Binding Path=Afhending_dags}" />
+
+                </Grid>
+            </DataTemplate>
+            <DataTemplate x:Key="PontunTemplate">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="75" />
+                        <ColumnDefinition Width="100" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="{Binding Path=Voruheiti}" />
+                    <TextBlock Grid.Column="1" Text="{Binding Path=Verd}" />
+                    <TextBlock Grid.Column="2" Text="{Binding Path=Fjoldi}" />
+                </Grid>
+            </DataTemplate>
+        </Grid.Resources>
+        <Label x:Name="label" Content="Viðskipavinur" HorizontalAlignment="Left" Margin="136,6,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label x:Name="Dagsetning" Content="Dagsetning" HorizontalAlignment="Left" Margin="27,60,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label x:Name="label_Copy1" Content="Afhendarmáti" HorizontalAlignment="Left" Margin="27,91,0,0" VerticalAlignment="Top" Width="89"/>
+        <TextBox x:Name="textBox_VV" Height="23" Margin="121,32,395,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding ElementName=Vidskiptavinur, Path=SelectedItem.VvNafn}"/>
+        <TextBox x:Name="textBox_GS" Height="23" Margin="121,60,395,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding ElementName=Vidskiptavinur, Path=SelectedItem.Afhending_dags}" TextChanged="textBox_GS_TextChanged"/>
+        <!--<TextBox x:Name="textBox__AFM" Height="23" Margin="121,88,395,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding ElementName=Vidskiptavinur, Path=SelectedItem.Afhendingarmáti}"/>-->
+        <TextBox x:Name="textBox_KTVV" Height="23" Margin="121,122,395,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding ElementName=Vidskiptavinur, Path=SelectedItem.VvKT}"/>
+        <Button x:Name="button" Content="Skrá kúnna" Margin="0,322,90,0" VerticalAlignment="Top" Click="button_Click" HorizontalAlignment="Right" Width="75"/>
+        <TextBox x:Name="textBox_VH" HorizontalAlignment="Right" Height="23" Margin="0,32,185,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding ElementName=Pantanir, Path=SelectedItem.Voruheiti}"/>
+        <TextBox x:Name="textBox_verd" HorizontalAlignment="Right" Height="23" Margin="0,63,185,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding ElementName=Pantanir, Path=SelectedItem.Verd}"/>
+        <TextBox x:Name="textBox_fjoldi" HorizontalAlignment="Right" Height="23" Margin="0,94,185,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding ElementName=Pantanir, Path=SelectedItem.Fjoldi}"/>
+        <TextBox x:Name="textBox_PID" HorizontalAlignment="Right" Height="23" Margin="0,125,185,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_PID_TextChanged" Text="{Binding SelectedItem.Id, ElementName=Vidskiptavinur, Mode=OneWay}"/>
+        <Button x:Name="button_skra" Content="Skrá vörur" HorizontalAlignment="Right" Margin="0,347,90,0" VerticalAlignment="Top" Width="75" Click="button_skra_Click"/>
+        <Label x:Name="label1" Content="Vörulína" HorizontalAlignment="Right" Margin="0,6,217,0" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="label2_Copy" Content="Vöruheiti" HorizontalAlignment="Right" Margin="0,32,310,0" VerticalAlignment="Top" RenderTransformOrigin="1.316,0.615" Width="71"/>
+        <Label x:Name="label2_Copy1" Content="Verð" HorizontalAlignment="Right" Margin="0,60,321,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="label2_Copy2" Content="Fjöldi" HorizontalAlignment="Right" Margin="0,91,321,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="label2_Copy3" Content="PöntunID" HorizontalAlignment="Right" Margin="0,125,321,0" VerticalAlignment="Top"/>
+        <Label x:Name="KtViðskiptavin" Content="Kennitala" HorizontalAlignment="Left" Margin="27,122,0,0" VerticalAlignment="Top" Width="89"/>
+        <Button x:Name="button_hreinsa" Content="Hreinsa" HorizontalAlignment="Right" Margin="0,322,10,0" VerticalAlignment="Top" Width="75" Click="button_hreinsa_Click"/>
+        <Button x:Name="___quit" Content="Quit" HorizontalAlignment="Right" Margin="0,347,10,0" VerticalAlignment="Top" Width="75" Click="___quit_Click"/>
+        <Label x:Name="kunni" Content="" HorizontalAlignment="Left" Margin="27,308,0,0" VerticalAlignment="Top" Width="181"/>
+        <ListBox x:Name="Vidskiptavinur" ItemTemplate="{DynamicResource PantanirTemplate}" Height="150" VerticalAlignment="Top" Margin="27,153,276,0" SelectionChanged="listBox_SelectionChanged"/>
+        <ListBox x:Name="Pantanir" ItemTemplate="{DynamicResource PontunTemplate}" Height="150" Margin="0,153,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="251" SelectionChanged="Pantanir_SelectionChanged"/>
+        <Label x:Name="label2" Content="Nafn" HorizontalAlignment="Left" Margin="27,32,0,0" VerticalAlignment="Top" Width="89"/>
+        <Button x:Name="button_EP" Content="Eyða Pöntun" Margin="0,322,170,0" VerticalAlignment="Top" Click="button_EP_Click" HorizontalAlignment="Right" Width="75"/>
+        <TextBox x:Name="ID" Height="23" Margin="0,122,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding SelectedItem.Id, ElementName=Pantanir, Mode=OneWay}" HorizontalAlignment="Right" Width="46" Visibility="Hidden"/>
+        <ComboBox x:Name="comboBox_AFM" Margin="121,93,395,0" VerticalAlignment="Top" IsSynchronizedWithCurrentItem="False" IsReadOnly="True" RenderTransformOrigin="0.5,0.5" Text="{Binding ElementName=Vidskiptavinur, Path=SelectedItem.Afhendingarmáti}">
+            <ListBoxItem Content="Með Flugi"/>
+            <ListBoxItem Content="Sótt í verslun"/>
+            <ListBoxItem Content="Sendist" Width="110"/>
+        </ComboBox>
+    </Grid>
+</Window>

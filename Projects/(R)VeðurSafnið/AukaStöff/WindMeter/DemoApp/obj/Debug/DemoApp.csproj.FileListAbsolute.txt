@@ -1,0 +1,48 @@
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\bin\Debug\NmtUiLib.dll
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\bin\Debug\NmtUiLib.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp.g.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\bin\Debug\NmtUiLib.dll
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\bin\Debug\NmtUiLib.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp.g.resources
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.Cache
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\bin\Debug\DemoApp.exe.config
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp.exe
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp.pdb
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\bin\Debug\DemoApp.exe
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\bin\Debug\DemoApp.pdb
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\bin\Debug\NmtUiLib.dll
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\bin\Debug\NmtUiLib.pdb
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\MainWindow.g.cs
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\App.g.cs
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp_MarkupCompile.cache
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp_MarkupCompile.lref
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\MainWindow.baml
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp.g.resources
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.Cache

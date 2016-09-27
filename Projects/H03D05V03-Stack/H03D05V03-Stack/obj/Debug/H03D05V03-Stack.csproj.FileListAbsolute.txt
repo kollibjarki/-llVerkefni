@@ -1,0 +1,5 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V03-Stack\H03D05V03-Stack\bin\Debug\H03D05V03-Stack.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V03-Stack\H03D05V03-Stack\bin\Debug\H03D05V03-Stack.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V03-Stack\H03D05V03-Stack\bin\Debug\H03D05V03-Stack.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V03-Stack\H03D05V03-Stack\obj\Debug\H03D05V03-Stack.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V03-Stack\H03D05V03-Stack\obj\Debug\H03D05V03-Stack.pdb

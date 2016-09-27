@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\19-classes-1-car\19-classes-1-car\bin\Debug\19-classes-1-car.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\19-classes-1-car\19-classes-1-car\bin\Debug\19-classes-1-car.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\19-classes-1-car\19-classes-1-car\bin\Debug\19-classes-1-car.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\19-classes-1-car\19-classes-1-car\obj\Debug\19-classes-1-car.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\19-classes-1-car\19-classes-1-car\obj\Debug\19-classes-1-car.pdb
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\19-classes-1-car\19-classes-1-car\obj\Debug\19-classes-1-car.csprojResolveAssemblyReference.cache

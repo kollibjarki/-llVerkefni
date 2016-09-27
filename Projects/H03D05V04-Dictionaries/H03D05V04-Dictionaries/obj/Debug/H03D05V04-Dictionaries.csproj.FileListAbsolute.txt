@@ -1,0 +1,5 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V04-Dictionaries\H03D05V04-Dictionaries\bin\Debug\H03D05V04-Dictionaries.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V04-Dictionaries\H03D05V04-Dictionaries\bin\Debug\H03D05V04-Dictionaries.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V04-Dictionaries\H03D05V04-Dictionaries\bin\Debug\H03D05V04-Dictionaries.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V04-Dictionaries\H03D05V04-Dictionaries\obj\Debug\H03D05V04-Dictionaries.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V04-Dictionaries\H03D05V04-Dictionaries\obj\Debug\H03D05V04-Dictionaries.pdb

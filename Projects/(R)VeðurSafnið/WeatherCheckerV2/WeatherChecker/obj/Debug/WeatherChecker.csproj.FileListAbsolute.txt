@@ -1,0 +1,48 @@
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.g.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\bin\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\bin\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker.g.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit - BackUp\WeatherChecker2\WeatherChecker\obj\Debug\WeatherChecker.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\bin\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\bin\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.g.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\WeatherCheckerV2\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\Góðar Útgáfur\WeatherCheckerV2\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit\Góðar Útgáfur\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\Góðar Útgáfur\WeatherCheckerV2\WeatherChecker\obj\Debug\WeatherChecker.pdb

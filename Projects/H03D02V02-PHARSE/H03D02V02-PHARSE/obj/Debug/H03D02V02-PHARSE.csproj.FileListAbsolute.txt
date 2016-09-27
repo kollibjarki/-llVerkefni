@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V02-PHARSE\H03D02V02-PHARSE\bin\Debug\H03D02V02-PHARSE.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V02-PHARSE\H03D02V02-PHARSE\bin\Debug\H03D02V02-PHARSE.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V02-PHARSE\H03D02V02-PHARSE\bin\Debug\H03D02V02-PHARSE.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V02-PHARSE\H03D02V02-PHARSE\obj\Debug\H03D02V02-PHARSE.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V02-PHARSE\H03D02V02-PHARSE\obj\Debug\H03D02V02-PHARSE.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V02-PHARSE\H03D02V02-PHARSE\obj\Debug\H03D02V02-PHARSE.csprojResolveAssemblyReference.cache

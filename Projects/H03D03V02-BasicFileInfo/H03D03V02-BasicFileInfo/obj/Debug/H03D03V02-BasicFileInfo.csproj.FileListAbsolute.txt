@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V02-BasicFileInfo\H03D03V02-BasicFileInfo\bin\Debug\H03D03V02-BasicFileInfo.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V02-BasicFileInfo\H03D03V02-BasicFileInfo\bin\Debug\H03D03V02-BasicFileInfo.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V02-BasicFileInfo\H03D03V02-BasicFileInfo\bin\Debug\H03D03V02-BasicFileInfo.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V02-BasicFileInfo\H03D03V02-BasicFileInfo\obj\Debug\H03D03V02-BasicFileInfo.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V02-BasicFileInfo\H03D03V02-BasicFileInfo\obj\Debug\H03D03V02-BasicFileInfo.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V02-BasicFileInfo\H03D03V02-BasicFileInfo\obj\Debug\H03D03V02-BasicFileInfo.pdb

@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\ConsoleApplication4laun3\ConsoleApplication4laun3\bin\Debug\ConsoleApplication4laun3.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\ConsoleApplication4laun3\ConsoleApplication4laun3\bin\Debug\ConsoleApplication4laun3.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\ConsoleApplication4laun3\ConsoleApplication4laun3\bin\Debug\ConsoleApplication4laun3.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\ConsoleApplication4laun3\ConsoleApplication4laun3\obj\Debug\ConsoleApplication4laun3.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\ConsoleApplication4laun3\ConsoleApplication4laun3\obj\Debug\ConsoleApplication4laun3.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\ConsoleApplication4laun3\ConsoleApplication4laun3\obj\Debug\ConsoleApplication4laun3.pdb

@@ -1,0 +1,14 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\bin\Debug\WpfCar.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\bin\Debug\WpfCar.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\bin\Debug\WpfCar.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\MainWindow.g.cs
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\App.g.cs
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar_MarkupCompile.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar_MarkupCompile.lref
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\MainWindow.baml
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar.g.resources
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar.Properties.Resources.resources
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar.csproj.GenerateResource.Cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WpfCar\WpfCar\obj\Debug\WpfCar.pdb

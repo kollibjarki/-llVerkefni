@@ -1,0 +1,21 @@
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\IcelandicWeatherMonitor.exe.config
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\IcelandicWeatherMonitor.exe
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\IcelandicWeatherMonitor.pdb
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\MapControl.dll
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\SampleApp.exe
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\MapControl.pdb
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\SampleApp.pdb
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor_MarkupCompile.cache
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor_MarkupCompile.lref
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.g.resources
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.Properties.Resources.resources
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.exe
+C:\Users\Audio Monster\Documents\AppsDiddi\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\bin\Debug\IcelandicWeatherMonitor.exe.config
+C:\Users\Audio Monster\Desktop\Veður Tests\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.exe
+C:\Users\Audio Monster\Desktop\Veður Tests\Mappan\IcelandicWeatherMonitor\IcelandicWeatherMonitor\obj\Debug\IcelandicWeatherMonitor.pdb

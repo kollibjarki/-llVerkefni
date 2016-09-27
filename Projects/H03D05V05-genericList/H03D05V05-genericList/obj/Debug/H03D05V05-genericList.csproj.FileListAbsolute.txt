@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V05-genericList\H03D05V05-genericList\bin\Debug\H03D05V05-genericList.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V05-genericList\H03D05V05-genericList\bin\Debug\H03D05V05-genericList.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V05-genericList\H03D05V05-genericList\bin\Debug\H03D05V05-genericList.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V05-genericList\H03D05V05-genericList\obj\Debug\H03D05V05-genericList.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V05-genericList\H03D05V05-genericList\obj\Debug\H03D05V05-genericList.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V05-genericList\H03D05V05-genericList\obj\Debug\H03D05V05-genericList.pdb

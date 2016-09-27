@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-RegEx\H03D04V01-RegEx\bin\Debug\H03D04V01-RegEx.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-RegEx\H03D04V01-RegEx\bin\Debug\H03D04V01-RegEx.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-RegEx\H03D04V01-RegEx\bin\Debug\H03D04V01-RegEx.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-RegEx\H03D04V01-RegEx\obj\Debug\H03D04V01-RegEx.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-RegEx\H03D04V01-RegEx\obj\Debug\H03D04V01-RegEx.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D04V01-RegEx\H03D04V01-RegEx\obj\Debug\H03D04V01-RegEx.pdb

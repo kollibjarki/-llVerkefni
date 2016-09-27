@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Serialization\H03D06V01-Serialization\bin\Debug\H03D06V01-Serialization.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Serialization\H03D06V01-Serialization\bin\Debug\H03D06V01-Serialization.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Serialization\H03D06V01-Serialization\bin\Debug\H03D06V01-Serialization.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Serialization\H03D06V01-Serialization\obj\Debug\H03D06V01-Serialization.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Serialization\H03D06V01-Serialization\obj\Debug\H03D06V01-Serialization.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Serialization\H03D06V01-Serialization\obj\Debug\H03D06V01-Serialization.pdb

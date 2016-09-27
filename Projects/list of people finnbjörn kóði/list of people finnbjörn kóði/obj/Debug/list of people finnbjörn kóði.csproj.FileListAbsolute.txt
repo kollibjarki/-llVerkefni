@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\list of people finnbjörn kóði\list of people finnbjörn kóði\bin\Debug\list of people finnbjörn kóði.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\list of people finnbjörn kóði\list of people finnbjörn kóði\bin\Debug\list of people finnbjörn kóði.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\list of people finnbjörn kóði\list of people finnbjörn kóði\bin\Debug\list of people finnbjörn kóði.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\list of people finnbjörn kóði\list of people finnbjörn kóði\obj\Debug\list of people finnbjörn kóði.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\list of people finnbjörn kóði\list of people finnbjörn kóði\obj\Debug\list of people finnbjörn kóði.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\list of people finnbjörn kóði\list of people finnbjörn kóði\obj\Debug\list of people finnbjörn kóði.pdb

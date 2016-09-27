@@ -1,0 +1,8 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\bin\Debug\H03D10V01-json.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\bin\Debug\H03D10V01-json.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\bin\Debug\H03D10V01-json.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\bin\Debug\Newtonsoft.Json.dll
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\bin\Debug\Newtonsoft.Json.xml
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\obj\Debug\H03D10V01-json.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\obj\Debug\H03D10V01-json.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D10V01-json\H03D10V01-json\obj\Debug\H03D10V01-json.pdb

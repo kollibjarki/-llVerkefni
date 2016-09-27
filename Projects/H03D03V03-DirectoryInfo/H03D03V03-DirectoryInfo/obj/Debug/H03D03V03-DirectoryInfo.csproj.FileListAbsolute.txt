@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V03-DirectoryInfo\H03D03V03-DirectoryInfo\bin\Debug\H03D03V03-DirectoryInfo.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V03-DirectoryInfo\H03D03V03-DirectoryInfo\bin\Debug\H03D03V03-DirectoryInfo.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V03-DirectoryInfo\H03D03V03-DirectoryInfo\bin\Debug\H03D03V03-DirectoryInfo.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V03-DirectoryInfo\H03D03V03-DirectoryInfo\obj\Debug\H03D03V03-DirectoryInfo.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V03-DirectoryInfo\H03D03V03-DirectoryInfo\obj\Debug\H03D03V03-DirectoryInfo.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V03-DirectoryInfo\H03D03V03-DirectoryInfo\obj\Debug\H03D03V03-DirectoryInfo.pdb

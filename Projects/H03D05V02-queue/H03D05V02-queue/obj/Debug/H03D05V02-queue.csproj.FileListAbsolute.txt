@@ -1,0 +1,5 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V02-queue\H03D05V02-queue\bin\Debug\H03D05V02-queue.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V02-queue\H03D05V02-queue\bin\Debug\H03D05V02-queue.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V02-queue\H03D05V02-queue\bin\Debug\H03D05V02-queue.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V02-queue\H03D05V02-queue\obj\Debug\H03D05V02-queue.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D05V02-queue\H03D05V02-queue\obj\Debug\H03D05V02-queue.pdb

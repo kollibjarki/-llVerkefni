@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{38227AE4-FA00-4599-A237-79DBD0A84E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{610B7D7E-9431-4CCB-845F-4AB53ECA2E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38227AE4-FA00-4599-A237-79DBD0A84E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38227AE4-FA00-4599-A237-79DBD0A84E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38227AE4-FA00-4599-A237-79DBD0A84E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38227AE4-FA00-4599-A237-79DBD0A84E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610B7D7E-9431-4CCB-845F-4AB53ECA2E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610B7D7E-9431-4CCB-845F-4AB53ECA2E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610B7D7E-9431-4CCB-845F-4AB53ECA2E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610B7D7E-9431-4CCB-845F-4AB53ECA2E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

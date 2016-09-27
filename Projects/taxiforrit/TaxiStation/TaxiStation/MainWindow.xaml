@@ -1,0 +1,28 @@
+﻿<Window x:Class="TaxiStation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaxiStation"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="434.111" Width="525">
+    <Grid Margin="0,0,0.4,69.8">
+
+        <Grid.Resources>
+            <DataTemplate x:Key="TaxisTemplate">
+                <Grid>
+                    <TextBox Text="{Binding Path=Driver}" />
+                </Grid>
+            </DataTemplate>
+        </Grid.Resources>
+
+        <ListBox x:Name="lstTaxis" ItemTemplate="{DynamicResource TaxisTemplate}" Margin="0,0,0,82.8"/>
+        <TextBox x:Name="txtTaxiNr" HorizontalAlignment="Left" Margin="10,281,0,27" TextWrapping="Wrap" Text="Number" Width="120"/>
+        <TextBox x:Name="txtTaxiName" HorizontalAlignment="Left" Margin="143,281,0,27" TextWrapping="Wrap" Text="Driver" Width="120"/>
+        <TextBox x:Name="txtTaxiCar" HorizontalAlignment="Left" Margin="283,281,0,27" TextWrapping="Wrap" Text="Car" Width="120"/>
+        <Button x:Name="btnAddDriver" Content="Add" HorizontalAlignment="Left" Height="20" Margin="425,288,0,0" VerticalAlignment="Top" Width="75" Click="btnAddDriver_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="305,352,0,-41.8" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="184"/>
+
+    </Grid>
+</Window>

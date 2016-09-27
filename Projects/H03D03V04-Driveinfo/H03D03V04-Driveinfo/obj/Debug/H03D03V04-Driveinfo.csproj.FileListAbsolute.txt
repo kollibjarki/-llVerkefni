@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V04-Driveinfo\H03D03V04-Driveinfo\bin\Debug\H03D03V04-Driveinfo.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V04-Driveinfo\H03D03V04-Driveinfo\bin\Debug\H03D03V04-Driveinfo.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V04-Driveinfo\H03D03V04-Driveinfo\bin\Debug\H03D03V04-Driveinfo.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V04-Driveinfo\H03D03V04-Driveinfo\obj\Debug\H03D03V04-Driveinfo.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V04-Driveinfo\H03D03V04-Driveinfo\obj\Debug\H03D03V04-Driveinfo.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V04-Driveinfo\H03D03V04-Driveinfo\obj\Debug\H03D03V04-Driveinfo.pdb

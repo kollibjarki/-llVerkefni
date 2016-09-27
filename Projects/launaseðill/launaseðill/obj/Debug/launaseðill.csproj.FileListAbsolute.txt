@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\launaseðill\launaseðill\bin\Debug\launaseðill.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\launaseðill\launaseðill\bin\Debug\launaseðill.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\launaseðill\launaseðill\bin\Debug\launaseðill.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\launaseðill\launaseðill\obj\Debug\launaseðill.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\launaseðill\launaseðill\obj\Debug\launaseðill.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\launaseðill\launaseðill\obj\Debug\launaseðill.pdb

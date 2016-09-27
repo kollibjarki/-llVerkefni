@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V06-Verkefni frá kennara\H03D06V06-Verkefni frá kennara\bin\Debug\H03D06V06-Verkefni frá kennara.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V06-Verkefni frá kennara\H03D06V06-Verkefni frá kennara\bin\Debug\H03D06V06-Verkefni frá kennara.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V06-Verkefni frá kennara\H03D06V06-Verkefni frá kennara\bin\Debug\H03D06V06-Verkefni frá kennara.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V06-Verkefni frá kennara\H03D06V06-Verkefni frá kennara\obj\Debug\H03D06V06-Verkefni frá kennara.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V06-Verkefni frá kennara\H03D06V06-Verkefni frá kennara\obj\Debug\H03D06V06-Verkefni frá kennara.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V06-Verkefni frá kennara\H03D06V06-Verkefni frá kennara\obj\Debug\H03D06V06-Verkefni frá kennara.csprojResolveAssemblyReference.cache

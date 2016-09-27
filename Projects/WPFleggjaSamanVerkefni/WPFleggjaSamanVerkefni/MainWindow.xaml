@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFleggjaSamanVerkefni.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFleggjaSamanVerkefni"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="FirstNumber" HorizontalAlignment="Left" Height="23" Margin="40,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged" Text="Give me numbers"/>
+        <TextBox x:Name="FirstNumber2" HorizontalAlignment="Left" Height="23" Margin="40,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="Shit give me moar!!"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="40,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" TextChanged="textBox2_TextChanged" Text="what number will i shit now!!"/>
+        <Button x:Name="button" Content="Leggja saman" HorizontalAlignment="Left" Margin="40,191,0,0" VerticalAlignment="Top" Width="75" IsDefault="True" Click="button_Click"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="326,114,0,0" SelectionChanged="comboBox_SelectionChanged" IsDropDownOpen="True" SelectedIndex="5">
+            <ComboBoxItem Content="Plus" Selected="ComboBoxItem_Selected"/>
+            <ComboBoxItem Content="Divided" Selected="ComboBoxItem_Selected_2"/>
+            <ComboBoxItem Content="Subtrack" Selected="ComboBoxItem_Selected_1"/>
+            <ComboBoxItem Content="multiply" Selected="ComboBoxItem_Selected_3"/>
+        </ComboBox>
+        <Label x:Name="label" Content="MathFormulas" HorizontalAlignment="Left" Margin="326,87,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

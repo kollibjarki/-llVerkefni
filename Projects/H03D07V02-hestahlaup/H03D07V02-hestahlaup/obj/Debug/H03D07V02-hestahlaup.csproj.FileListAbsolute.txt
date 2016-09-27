@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D07V02-hestahlaup\H03D07V02-hestahlaup\bin\Debug\H03D07V02-hestahlaup.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D07V02-hestahlaup\H03D07V02-hestahlaup\bin\Debug\H03D07V02-hestahlaup.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D07V02-hestahlaup\H03D07V02-hestahlaup\bin\Debug\H03D07V02-hestahlaup.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D07V02-hestahlaup\H03D07V02-hestahlaup\obj\Debug\H03D07V02-hestahlaup.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D07V02-hestahlaup\H03D07V02-hestahlaup\obj\Debug\H03D07V02-hestahlaup.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D07V02-hestahlaup\H03D07V02-hestahlaup\obj\Debug\H03D07V02-hestahlaup.pdb

@@ -1,0 +1,39 @@
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\bin\Debug\NmtUiLib.dll
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\bin\Debug\NmtUiLib.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\NmtUiLib_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\NmtUiLib_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\Themes\WindMeterStyle.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\NmtUiLib.g.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\NMT.Wpf.Controls.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\NmtUiLib.dll
+C:\Users\Audio Monster\Desktop\VeðurForrit\WindMeter\CustomControls\obj\Debug\NmtUiLib.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\bin\Debug\NmtUiLib.dll
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\bin\Debug\NmtUiLib.pdb
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\NmtUiLib_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\NmtUiLib_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\Themes\WindMeterStyle.baml
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\NmtUiLib.g.resources
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\NMT.Wpf.Controls.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\NmtUiLib.dll
+C:\Users\Audio Monster\Desktop\Veður Tests\WindMeter\CustomControls\obj\Debug\NmtUiLib.pdb
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\bin\Debug\NmtUiLib.dll
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\bin\Debug\NmtUiLib.pdb
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\Themes\Generic.baml
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\NmtUiLib_MarkupCompile.cache
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\NmtUiLib_MarkupCompile.lref
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\Themes\WindMeterStyle.baml
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\NmtUiLib.g.resources
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\NMT.Wpf.Controls.Properties.Resources.resources
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\NmtUiLib.dll
+F:\(R)VeðurSafnið\AukaStöff\WindMeter\CustomControls\obj\Debug\NmtUiLib.pdb

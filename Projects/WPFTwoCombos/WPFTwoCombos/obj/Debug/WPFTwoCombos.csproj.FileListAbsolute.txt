@@ -1,0 +1,17 @@
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\bin\Debug\WPFTwoCombos.exe.config
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\bin\Debug\WPFTwoCombos.exe
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\bin\Debug\WPFTwoCombos.pdb
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.csprojResolveAssemblyReference.cache
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\MainWindow.g.cs
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\App.g.cs
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos_MarkupCompile.cache
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos_MarkupCompile.lref
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\MainWindow.baml
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.g.resources
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.Properties.Resources.resources
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.csproj.GenerateResource.Cache
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.exe
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.pdb
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\bin\Debug\WPFTwoCombos.exe.config
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.exe
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\WPFTwoCombos\WPFTwoCombos\obj\Debug\WPFTwoCombos.pdb

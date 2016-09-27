@@ -1,0 +1,5 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Deserialization\H03D06V01-Deserialization\bin\Debug\H03D06V01-Deserialization.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Deserialization\H03D06V01-Deserialization\bin\Debug\H03D06V01-Deserialization.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Deserialization\H03D06V01-Deserialization\bin\Debug\H03D06V01-Deserialization.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Deserialization\H03D06V01-Deserialization\obj\Debug\H03D06V01-Deserialization.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V01-Deserialization\H03D06V01-Deserialization\obj\Debug\H03D06V01-Deserialization.pdb

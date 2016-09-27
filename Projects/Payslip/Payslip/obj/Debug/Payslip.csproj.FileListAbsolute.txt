@@ -1,0 +1,7 @@
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\Payslip\Payslip\bin\Debug\Payslip.exe.config
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\Payslip\Payslip\obj\Debug\Payslip.csprojResolveAssemblyReference.cache
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\Payslip\Payslip\obj\Debug\MainWindow.g.cs
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\Payslip\Payslip\obj\Debug\App.g.cs
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\Payslip\Payslip\obj\Debug\Payslip_MarkupCompile.cache
+\\mordor\starfsmenn$\finnbjorn\documents\visual studio 2015\Projects\Payslip\Payslip\obj\Debug\Payslip_MarkupCompile.lref
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\Payslip\Payslip\bin\Debug\Payslip.exe.config

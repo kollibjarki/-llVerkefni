@@ -1,0 +1,8 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\bin\Debug\H03D011V02- AbstractJason.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\bin\Debug\H03D011V02- AbstractJason.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\bin\Debug\H03D011V02- AbstractJason.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\obj\Debug\H03D011V02- AbstractJason.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\obj\Debug\H03D011V02- AbstractJason.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\obj\Debug\H03D011V02- AbstractJason.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\bin\Debug\Newtonsoft.Json.dll
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D011V02- AbstractJason\H03D011V02- AbstractJason\bin\Debug\Newtonsoft.Json.xml

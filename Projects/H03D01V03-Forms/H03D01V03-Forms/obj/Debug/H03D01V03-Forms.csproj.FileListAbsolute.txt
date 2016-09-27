@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D01V03-Forms\H03D01V03-Forms\bin\Debug\H03D01V03-Forms.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D01V03-Forms\H03D01V03-Forms\bin\Debug\H03D01V03-Forms.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D01V03-Forms\H03D01V03-Forms\bin\Debug\H03D01V03-Forms.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D01V03-Forms\H03D01V03-Forms\obj\Debug\H03D01V03-Forms.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D01V03-Forms\H03D01V03-Forms\obj\Debug\H03D01V03-Forms.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D01V03-Forms\H03D01V03-Forms\obj\Debug\H03D01V03-Forms.csprojResolveAssemblyReference.cache

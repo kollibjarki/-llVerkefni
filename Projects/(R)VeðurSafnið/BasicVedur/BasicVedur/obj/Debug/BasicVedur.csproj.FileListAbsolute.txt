@@ -1,0 +1,34 @@
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\bin\Debug\BasicVedur.exe.config
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\bin\Debug\BasicVedur.exe
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\bin\Debug\BasicVedur.pdb
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur.csprojResolveAssemblyReference.cache
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\MainWindow.g.cs
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\App.g.cs
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur_MarkupCompile.cache
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur_MarkupCompile.lref
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\MainWindow.baml
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur.g.resources
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur.Properties.Resources.resources
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur.csproj.GenerateResource.Cache
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur.exe
+c:\users\audio monster\documents\visual studio 2015\Projects\BasicVedur\BasicVedur\obj\Debug\BasicVedur.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\bin\Debug\BasicVedur.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\bin\Debug\BasicVedur.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\bin\Debug\BasicVedur.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\MainWindow.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\App.g.cs
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur_MarkupCompile.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur_MarkupCompile.lref
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\MainWindow.baml
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.g.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.Properties.Resources.resources
+C:\Users\Audio Monster\Desktop\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.csproj.GenerateResource.Cache
+F:\VeðurForrit\BasicVedur\BasicVedur\bin\Debug\BasicVedur.exe.config
+F:\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.exe
+F:\VeðurForrit\BasicVedur\BasicVedur\obj\Debug\BasicVedur.pdb
+E:\(R)VeðurSafnið\BasicVedur\BasicVedur\bin\Debug\BasicVedur.exe.config
+E:\(R)VeðurSafnið\BasicVedur\BasicVedur\obj\Debug\BasicVedur.exe
+E:\(R)VeðurSafnið\BasicVedur\BasicVedur\obj\Debug\BasicVedur.pdb

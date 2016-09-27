@@ -1,0 +1,30 @@
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\bin\Debug\PanAndZoom.exe.config
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\bin\Debug\PanAndZoom.exe
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\bin\Debug\PanAndZoom.pdb
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.csprojResolveAssemblyReference.cache
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\MainWindow.g.cs
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\App.g.cs
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom_MarkupCompile.cache
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom_MarkupCompile.lref
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\MainWindow.baml
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.g.resources
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.Properties.Resources.resources
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.csproj.GenerateResource.Cache
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.exe
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.pdb
+c:\users\audio monster\documents\visual studio 2015\Projects\PanAndZoom\PanAndZoom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\bin\Debug\PanAndZoom.exe.config
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.exe
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.pdb
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\bin\Debug\PanAndZoom.exe
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\bin\Debug\PanAndZoom.pdb
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.csprojResolveAssemblyReference.cache
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\MainWindow.g.cs
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\App.g.cs
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom_MarkupCompile.cache
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom_MarkupCompile.lref
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\MainWindow.baml
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.g.resources
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.Properties.Resources.resources
+F:\(R)VeðurSafnið\PanAndZoom\PanAndZoom\obj\Debug\PanAndZoom.csproj.GenerateResource.Cache

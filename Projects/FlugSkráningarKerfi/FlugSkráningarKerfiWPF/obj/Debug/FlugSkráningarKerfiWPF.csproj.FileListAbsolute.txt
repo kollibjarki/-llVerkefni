@@ -1,0 +1,16 @@
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\bin\Debug\FlugSkráningarKerfiWPF.exe.config
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\bin\Debug\FlugSkráningarKerfiWPF.exe
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\bin\Debug\FlugSkráningarKerfiWPF.pdb
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\bin\Debug\Newtonsoft.Json.dll
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\bin\Debug\Newtonsoft.Json.xml
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF.csprojResolveAssemblyReference.cache
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\MainWindow.g.cs
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\App.g.cs
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF_MarkupCompile.cache
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF_MarkupCompile.lref
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\MainWindow.baml
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF.g.resources
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF.Properties.Resources.resources
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF.csproj.GenerateResource.Cache
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF.exe
+\\MORDOR.ntv.local\NemendurData$\kolbeinns.v16\Documents\Visual Studio 2015\Projects\FlugSkráningarKerfi\FlugSkráningarKerfiWPF\obj\Debug\FlugSkráningarKerfiWPF.pdb

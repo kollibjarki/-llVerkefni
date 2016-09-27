@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V01-villumeðhöndlun\H03D02V01-villumeðhöndlun\bin\Debug\H03D02V01-villumeðhöndlun.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V01-villumeðhöndlun\H03D02V01-villumeðhöndlun\bin\Debug\H03D02V01-villumeðhöndlun.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V01-villumeðhöndlun\H03D02V01-villumeðhöndlun\bin\Debug\H03D02V01-villumeðhöndlun.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V01-villumeðhöndlun\H03D02V01-villumeðhöndlun\obj\Debug\H03D02V01-villumeðhöndlun.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V01-villumeðhöndlun\H03D02V01-villumeðhöndlun\obj\Debug\H03D02V01-villumeðhöndlun.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D02V01-villumeðhöndlun\H03D02V01-villumeðhöndlun\obj\Debug\H03D02V01-villumeðhöndlun.pdb

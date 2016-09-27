@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V05-StreamReader\H03D03V05-StreamReader\bin\Debug\H03D03V05-StreamReader.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V05-StreamReader\H03D03V05-StreamReader\bin\Debug\H03D03V05-StreamReader.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V05-StreamReader\H03D03V05-StreamReader\bin\Debug\H03D03V05-StreamReader.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V05-StreamReader\H03D03V05-StreamReader\obj\Debug\H03D03V05-StreamReader.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V05-StreamReader\H03D03V05-StreamReader\obj\Debug\H03D03V05-StreamReader.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D03V05-StreamReader\H03D03V05-StreamReader\obj\Debug\H03D03V05-StreamReader.pdb

@@ -1,0 +1,248 @@
+﻿<Window x:Class="WeatherChecker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherChecker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Window.Resources>
+        <DataTemplate x:Key="cmbTemplate">
+            <WrapPanel Height="26">
+                <Image Width="15" Height="15" Stretch="Fill" Source="{Binding Photo}" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,0,15,0"/>
+                <Label Content="{Binding Name}" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="12"/>
+            </WrapPanel>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <Grid>
+
+        <Rectangle x:Name="Bakgrunnur" Opacity=".15" IsEnabled="False">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="CloudPatches.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="15" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Rectangle Grid.Column="1" Fill="#FF4B4848" Margin="-0.1 0 0 0"/>
+            <Rectangle Grid.Column="2" Fill="#FF4B4848" Margin="-1 0 0 0"></Rectangle>
+         
+
+
+            <!--   VINSTRI HLIÐ '0' Column   VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________ VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________ VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________ VINSTRI HLIÐ ___________VINSTRI HLIÐ ___________VINSTRI HLIÐ ______________________________________________________-->
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="10" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+
+                <!--Efri partur Row=0 ___________Efri partur_________________________________________________________Efri partur______________________________-->
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="22"/>
+                    </Grid.RowDefinitions>
+
+
+                    <TabControl Grid.Row="0" Grid.Column="1" TabStripPlacement="Bottom" Margin="0 0 -7 0">
+                        <TabItem>
+                            <TabItem.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock>Stöð 1</TextBlock>
+                                </StackPanel>
+                            </TabItem.Header>
+                            <StackPanel>
+
+                            </StackPanel>
+                        </TabItem>
+
+                        <TabItem Header="Stöð 2">
+                            <!--Bind TextBlock.Text to the TextBox on the firstTabItem.-->
+                            <TextBlock Text="{Binding ElementName=textBox1, Path=Text}"/>
+                        </TabItem>
+
+                    </TabControl>
+
+                </Grid>
+                <TextBlock x:Name="efriTexti" FontSize="18.667" HorizontalAlignment="Right" VerticalAlignment="Bottom" TextWrapping="Wrap" Text="Veðurstöðvar" FontFamily="Estrangelo Edessa" FontWeight="Bold" Margin="0 0 7 4"/>
+
+
+
+                <Menu x:Name="stodvarOptionsMenu" Grid.Column="1" Grid.Row="0" Background="{x:Null}" HorizontalAlignment="Right" Margin="0 0 2 25" VerticalAlignment="Bottom">
+                    <MenuItem Header="Valmöguleikar">
+                        <MenuItem Header="Eitthvað"></MenuItem>
+                        <MenuItem Header="gera stuff"></MenuItem>
+                        <MenuItem Header="Info"></MenuItem>
+                        <MenuItem Header="Hætta"></MenuItem>
+                    </MenuItem>
+
+                </Menu>
+
+                <!--________Upp nidur__Split___________________Splitt Bar  Row=1__________________Split_______upp nidur___________-->
+                <GridSplitter Grid.Row="1" Height="10" HorizontalAlignment="Stretch" Background="White" BorderBrush="#FF4B4848" BorderThickness="15,4.5,0,4.5"  />
+
+
+                <!--Nerðri Partur Row=2 _________________________________Nerðri Partur_____________________________Nerðri Partur______________________________-->
+                <Grid Grid.Row="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="22"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+
+                  
+
+                    <TextBlock x:Name="nedriTexti" Grid.Row="0" Grid.Column="1" FontSize="18.667" HorizontalAlignment="Right" VerticalAlignment="Top" TextWrapping="NoWrap" Text="Textaspár" FontFamily="Estrangelo Edessa" FontWeight="Bold" Margin="0 3 8 0"/>
+
+                    <TabControl TabStripPlacement="Top" Grid.Row="1" Grid.Column="1" Foreground="{x:Null}" Background="{x:Null}" BorderThickness="5" SelectionChanged="TabControl_SelectionChanged" Margin="10,0,-10,0">
+                        <TabItem x:Name="spa1tab" TabIndex="1" Background="#FFE3F0F9" Foreground="Black" Margin="-2,-2,2,-2">
+                            <TabItem.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock x:Name="spa1"></TextBlock>
+                                </StackPanel>
+                            </TabItem.Header>
+                            <StackPanel>
+                                <ComboBox x:Name="textaspaComboBox" SelectionChanged="textaspaComboBox_SelectionChanged" HorizontalAlignment="Left" VerticalAlignment="Top" Width="Auto" SelectedIndex="0">
+                                    <ComboBoxItem Content="Veðurhorfur á Landinu"/>
+                                    <ComboBoxItem Content="Höfuðborgarsvæðið"/>
+                                    <ComboBoxItem Content="Suðurland"/>
+                                    <ComboBoxItem Content="Faxaflói"/>
+                                    <ComboBoxItem Content="Breiðafjörður"/>
+                                    <ComboBoxItem Content="Vestfirðir"/>
+                                    <ComboBoxItem Content="Strandir og Norðurland vestra"/>
+                                    <ComboBoxItem Content="Norðurland eystra"/>
+                                    <ComboBoxItem Content="Austurland að Glettingi"/>
+                                    <ComboBoxItem Content="Austfirðir"/>
+                                    <ComboBoxItem Content="Suðausturland"/>
+                                    <ComboBoxItem Content="Miðhálendið"/>
+                                </ComboBox>
+                                <Button x:Name="getTextaspaButton" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70" Height="18" Content="Niddurhala" Click="getTextaspaButton_Click" BorderThickness="0" Background="#FF474747" Margin="0 -21 -2 0" FontSize="9.333" FontWeight="Bold" FontStyle="Italic" Foreground="#FFFFBEBE" Opacity="0.75"/>
+
+                                <TextBox x:Name="textDescriptionBox" TextWrapping="Wrap" TextAlignment="Justify" Margin="0 3 0 0" IsEnabled="False" BorderThickness="1"></TextBox>
+
+                                <TextBlock x:Name="timaPassedbox" HorizontalAlignment="Right" Background="#FFD61C1C"/>
+
+                                <TextBox x:Name="descriptionInfoBox" IsEnabled="False" BorderThickness="1"></TextBox>
+
+                            </StackPanel>
+                        </TabItem>
+
+                        <TabItem x:Name="spa2tab" TabIndex="2" Height="28" VerticalAlignment="Top" Foreground="Black" Background="#FFF7F9FB">
+                            <TabItem.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock x:Name="spa2"></TextBlock>
+                                </StackPanel>
+                            </TabItem.Header>
+                            <StackPanel>
+                                <ComboBox x:Name="textaspaComboBox2" SelectionChanged="textaspaComboBox_SelectionChanged" HorizontalAlignment="Left" VerticalAlignment="Top" Width="Auto" SelectedIndex="0">
+                                    <ComboBoxItem Content="Veðurhorfur á Landinu"/>
+                                    <ComboBoxItem Content="Höfuðborgarsvæðið"/>
+                                    <ComboBoxItem Content="Suðurland"/>
+                                    <ComboBoxItem Content="Faxaflói"/>
+                                    <ComboBoxItem Content="Breiðafjörður"/>
+                                    <ComboBoxItem Content="Vestfirðir"/>
+                                    <ComboBoxItem Content="Strandir og Norðurland vestra"/>
+                                    <ComboBoxItem Content="Norðurland eystra"/>
+                                    <ComboBoxItem Content="Austurland að Glettingi"/>
+                                    <ComboBoxItem Content="Austfirðir"/>
+                                    <ComboBoxItem Content="Suðausturland"/>
+                                    <ComboBoxItem Content="Miðhálendið"/>
+                                </ComboBox>
+
+                                <Button x:Name="getTextspa2Button" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70" Height="18" Content="Niddurhala" Click="getTextspa2Button_Click" BorderThickness="0" Background="#FF474747" Margin="0 -21 -2 0" FontSize="9.333" FontWeight="Bold" FontStyle="Italic" Foreground="#FFFFBEBE" Opacity="0.75"/>
+
+                                <TextBox x:Name="textDescriptionBox2" TextWrapping="Wrap" Height="Auto" TextAlignment="Justify"/>
+
+                                <TextBox x:Name="descriptionInfoBox2"></TextBox>
+
+                            </StackPanel>
+
+                        </TabItem>
+
+                    </TabControl>
+
+
+                    <Menu x:Name="textaspar_optionsMenu" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right" Margin="0 0 80 0" Background="{x:Null}">
+                        <MenuItem Header="" Click="MenuItem_Click" Margin="0" Width="31">
+                            <MenuItem.Icon>
+                                <Image Source="options_img.png" Width="20" Height="25"></Image>
+                            </MenuItem.Icon>
+                            
+                            <MenuItem Header="Nýr Flipi"></MenuItem>
+                            <MenuItem Header="Hreinsa Spár"></MenuItem>
+                        </MenuItem>
+
+                    </Menu>
+
+                </Grid>
+
+            </Grid>
+
+            <!-- ____________left right split___________SPLIT SCREEN Vertical '1' Column__________left right split_________________-->
+            <GridSplitter Grid.Column="1" Grid.Row="1" Width="15" HorizontalAlignment="Stretch" Background="White" BorderBrush="#FF4B4848" BorderThickness="6.5,86,6.5,85" />
+
+
+            <!--Hægri Hlið '2' Column    _HÆGRI HLIÐ _____________________HÆGRI HLIÐ ___________HÆGRI HLIÐ ___________HÆGRI HLIÐ _____________________HÆGRI HLIÐ ___________HÆGRI HLIÐ ___________HÆGRI HLIÐ _____________________HÆGRI HLIÐ ___________HÆGRI HLIÐ ___________HÆGRI HLIÐ _____________________HÆGRI HLIÐ ___________HÆGRI HLIÐ ___________HÆGRI HLIÐ _____________________HÆGRI HLIÐ ___________HÆGRI HLIÐ ___________-->
+            <Grid Grid.Column="2" Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40*"/>
+                    <ColumnDefinition Width="211*"/>
+                </Grid.ColumnDefinitions>
+                <!--       kort        -->
+                <Image x:Name="wmap_isl_gif" Margin="0 0 0 0" Source="wmap_isl.gif" Stretch="Fill" Grid.ColumnSpan="2"/>
+                <TextBlock x:Name="RightText" FontSize="18.333" HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="NoWrap" FontFamily="Estrangelo Edessa" FontWeight="Bold" Foreground="#BF000000" RenderTransformOrigin="0.5,0.5" Margin="-40,137,0,137" Grid.ColumnSpan="2">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-90"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>GeggjaðKort</TextBlock>
+
+               
+
+
+
+
+            </Grid>
+            <StackPanel Grid.Column="2" HorizontalAlignment="Left" Width="Auto" Margin="5 0 0 0">
+
+
+                <ComboBox x:Name="landhlutaMyndirCombobox" HorizontalAlignment="Center" VerticalAlignment="Top"  ItemTemplate="{StaticResource cmbTemplate}" Width="Auto" SelectionChanged="landhlutaMyndirCombobox_SelectionChanged" SelectedIndex="0" />
+
+
+            </StackPanel>
+            <Button x:Name="getMapButton" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Height="18" Content="Sækja Kort" Click="getMapButton_Click" BorderThickness="0" Background="#FF474747" FontSize="9.333" FontWeight="Bold" FontStyle="Italic" Foreground="#FFFFBEBE" Opacity="0.75" Margin="3 0 0 0"/>
+
+
+
+
+
+        </Grid>
+
+
+    </Grid>
+</Window>

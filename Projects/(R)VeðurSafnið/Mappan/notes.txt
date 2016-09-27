@@ -1,0 +1,2 @@
+<Image Stretch="Fill" 
+Source="/nameOfProject;Component/Images/image.jpg" />

@@ -1,0 +1,15 @@
+\\mordor.ntv.local\nemendurdata$\davidg.v16\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+\\mordor.ntv.local\nemendurdata$\davidg.v16\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+\\mordor.ntv.local\nemendurdata$\davidg.v16\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+\\mordor.ntv.local\nemendurdata$\davidg.v16\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+\\mordor.ntv.local\nemendurdata$\davidg.v16\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+\\mordor.ntv.local\nemendurdata$\davidg.v16\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\VeðurForrit\XmlNodeList\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Audio Monster\Desktop\VeðurForrit\XmlNodeList\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\XmlNodeList\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\XmlNodeList\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Audio Monster\Desktop\VeðurForrit\XmlNodeList\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Audio Monster\Desktop\VeðurForrit\XmlNodeList\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Audio Monster\Desktop\Veður Tests\XmlNodeList Success Console\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Audio Monster\Desktop\Veður Tests\XmlNodeList Success Console\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Audio Monster\Desktop\Veður Tests\XmlNodeList Success Console\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

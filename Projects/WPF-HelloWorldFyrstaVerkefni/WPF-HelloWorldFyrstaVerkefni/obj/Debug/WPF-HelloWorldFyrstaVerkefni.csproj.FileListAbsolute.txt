@@ -1,0 +1,14 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\bin\Debug\WPF-HelloWorldFyrstaVerkefni.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\bin\Debug\WPF-HelloWorldFyrstaVerkefni.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\bin\Debug\WPF-HelloWorldFyrstaVerkefni.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\MainWindow.g.cs
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\App.g.cs
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni_MarkupCompile.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni_MarkupCompile.lref
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\MainWindow.baml
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni.g.resources
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF_HelloWorldFyrstaVerkefni.Properties.Resources.resources
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni.csproj.GenerateResource.Cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\WPF-HelloWorldFyrstaVerkefni\WPF-HelloWorldFyrstaVerkefni\obj\Debug\WPF-HelloWorldFyrstaVerkefni.pdb

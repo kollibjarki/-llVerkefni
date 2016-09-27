@@ -1,0 +1,6 @@
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V04-XMLSeriallization\H03D06V04-XMLSeriallization\bin\Debug\H03D06V04-XMLSeriallization.exe.config
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V04-XMLSeriallization\H03D06V04-XMLSeriallization\bin\Debug\H03D06V04-XMLSeriallization.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V04-XMLSeriallization\H03D06V04-XMLSeriallization\bin\Debug\H03D06V04-XMLSeriallization.pdb
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V04-XMLSeriallization\H03D06V04-XMLSeriallization\obj\Debug\H03D06V04-XMLSeriallization.csprojResolveAssemblyReference.cache
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V04-XMLSeriallization\H03D06V04-XMLSeriallization\obj\Debug\H03D06V04-XMLSeriallization.exe
+\\mordor.ntv.local\nemendurdata$\kolbeinns.v16\documents\visual studio 2015\Projects\H03D06V04-XMLSeriallization\H03D06V04-XMLSeriallization\obj\Debug\H03D06V04-XMLSeriallization.pdb
